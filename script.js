@@ -1,0 +1,1 @@
+document.innerHTML = '<h2>Ga dan er voor...</h2>'
